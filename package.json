@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Back-End of a project that is about a Watchlist of all the animes, movies and series that I already watched!",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
