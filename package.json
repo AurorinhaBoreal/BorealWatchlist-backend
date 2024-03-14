@@ -1,7 +1,7 @@
 {
   "name": "node",
   "version": "0.1.0",
-  "description": "Back-End de um projeto onde salvarei a lista de animes e filmes assistidos por mim",
+  "description": "Back-End of a project that is about a Watchlist of all the animes, movies and series that I already watched!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
